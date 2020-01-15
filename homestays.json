@@ -1,1 +1,51 @@
 
+[
+  {
+    "id": 11,
+    "nama": "Keraton Homestay",
+    "fotoUrl": "https://drive.google.com/open?id=11U9q1AByVh0yFnaqGT-EE2rD84EjnBVs",
+    "harga": 760,
+    "lat": -7.800375,
+    "lng": 110.366378
+  },
+  {
+    "id": 12,
+    "nama": "Pakualaman Homestay",
+    "fotoUrl": "https://drive.google.com/open?id=1NYwONoN_78yEGRULmNOH_bjgn0EWhqnt",
+    "harga": 550,
+    "lat": -7.816251, 
+    "lng": 110.375221
+  },
+  {
+    "id": 13,
+    "nama": "Malioboro Homestay",
+    "fotoUrl": "https://drive.google.com/open?id=1FilZ88uaMl0xsjcRpmhZdP9yvgwiZliR",
+    "harga": 430,
+    "lat": -7.806150,
+    "lng": 110.368711
+  },
+  {
+    "id": 14,
+    "nama": "Ndalem Simbah Homestay",
+    "fotoUrl": "https://drive.google.com/open?id=1VBcpVx8qGlZlq2CoHEcuVeP9AiCzagE9",
+    "harga": 315,
+    "lat": -7.8118476,
+    "lng": 110.3609755
+  },
+  {
+    "id": 15,
+    "nama": "Rumah Mertua Homestay",
+    "fotoUrl": "https://drive.google.com/open?id=1X3lRLPdxYLywYP_LCp7bB-WmOyNj2jQ6",
+    "harga": 435,
+    "lat": -7.807883,
+    "lng": 110.364784
+  },
+  {
+    "id": 16,
+    "nama": "Top Malioboro Homestay",
+    "fotoUrl": "https://drive.google.com/open?id=1NVwwadA4Vx5EP0xSbf7XQEISONA9pPkA",
+    "harga": 390,
+    "lat": -7.803695,
+    "lng": 110.3622303
+  }
+]
